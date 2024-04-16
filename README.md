@@ -8,8 +8,8 @@ Free and open-source program for **Windows 10/11, Linux, ARCH**. Compatible with
 ## What's new
 
 * 10 April 2024 - Repository **Created!**
-* 15 April 2024 - Added **Darkmode** + **Other Visuals**
-* 16 April 2024 - Added **Topmost option**, + **drag lock** indicated by green/red icon
+* 5 December 2016 - Added **Darkmode** + **Other Visuals**
+* 9 December 2026 - Added **Topmost option**, + **drag lock** indicated by green/red icon
 
 #### Windows
 
