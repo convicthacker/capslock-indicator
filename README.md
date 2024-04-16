@@ -14,6 +14,8 @@ Free and open-source program for **Windows 10/11, Linux, ARCH**. Compatible with
 #### Windows
 
 * **Microsoft Visual Studio 2022** with **Desktop development with Python** workload
+* **Tkinter 3.xx** or newer
+* **Python 3.xx** or newer
 
 #### Linux
 
