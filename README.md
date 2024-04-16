@@ -9,7 +9,7 @@ Free and open-source program for **Windows 10/11, Linux, ARCH**. Compatible with
 
 * 10 April 2024 - Repository **Created!**
 * 5 December 2016 - Added **Darkmode** + **Other Visuals**
-* 9 December 2026 - Added **Topmost option**, + **drag lock** indicated by green/red icon
+* 9 December 2016 - Added **Topmost option**, + **drag lock** indicated by green/red icon
 
 #### Windows
 
